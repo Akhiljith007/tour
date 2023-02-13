@@ -1,0 +1,83 @@
+
+
+.header{width: 100%;
+    height: 550px;
+
+background-image: url(https://wallpaperaccess.com/full/1431600.jpg);
+background-size: cover;
+background-attachment: fixed;}
+
+#collect{font-size: 60px;
+font-weight: bold;
+color: white;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#not{font-size: 40px;
+font-weight: bold;
+color: white;
+}
+
+#enquiry{line-height: 200px}
+
+#but{border-radius: 50px;
+font-weight: bold;
+border: 2px solid black;}
+
+.container{width: 100%;
+
+}
+
+.packages{height: 200px;}
+
+.packages #natu{font-size: 30px;
+    font-weight: bold;
+    margin-left: 500px;
+  
+color:black;
+}
+
+.card-text{font-size: 13px;}
+
+.seemore{text-decoration: none;
+    margin-left: 1100px;
+height: 50px;}
+
+
+.sectiontwo{width: 100%;
+    height: 450px;
+    background: url(https://pathanamthittatourism.com/uploads/photos/5674dbc48ac98-6d28e5c742103e1790624945407e59aa-960x540.jpg);
+background-size: cover;}
+
+#KERALA{
+
+    font-size: 80px;
+    font-weight: bold;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;    
+    margin-top: 120px;
+}
+
+.box{display: flex;
+    align-items: center;
+justify-content: space-evenly;
+text-align: center;
+
+}
+
+#small-box{border-radius: 50px;
+border: 1px solid black;}
+#small-{border: 1px solid black;
+padding: 10px;
+border-radius: 30px;
+background-color:bisque;}
+
+#natu{font-size: 70px;}
+
+.natu{font-weight: bold;
+background-color: black;}
+
+#not{margin-left: 200px;
+font-size: 60px;
+color: orange;}
+
+#collect{margin-left: 9px;}
